@@ -1,4 +1,5 @@
-DWasteCutter 
+
+WasteCutter 
 
 Stop bleeding cash on forgotten SaaS subscriptions. Find waste. Cut it. Keep profits.
 
