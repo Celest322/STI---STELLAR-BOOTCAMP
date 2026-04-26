@@ -63,19 +63,13 @@ View on Stellar Expert
 
 🔗 Click here to view contract on Stellar Expert
 https://stellar.expert/explorer/testnet/account/GA72QG2RJTCB7LWCFZWLZZUCYNAEV2EQIESQUJTS3CWUXCTT6HRNP3AP
-<img width="1902" height="904" alt="image" src="https://github.com/user-attachments/assets/1e628031-386d-459c-a582-4f818d22ddac" />
+<img width="1899" height="940" alt="image" src="https://github.com/user-attachments/assets/00ba582b-2fb1-4fe7-b87b-5dce525f93eb" />
 View on Stellar Lab
 
 🔗 Interact via Stellar Lab
 Deployment Transaction
 text
 
-Transaction Hash: 5a3b2c1d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b
-
-Replace with actual deployment hash
-Screenshot of Deployed Contract
-
-https://via.placeholder.com/600x300?text=Stellar+Expert+Contract+View+Screenshot
 Above: Contract view showing initialization, subscription storage, and reminder functions
 Key Features
 MVP Features (Demo-ready)
