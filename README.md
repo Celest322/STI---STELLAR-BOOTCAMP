@@ -58,8 +58,7 @@ text
 
 CA54SPYD3W6ACDBGLEERYQQ6TZ2XMLYWQP2GBCIFSPLKH7RGYXQ7D7N2
 
-Replace with the actual deployed contract ID after deployment
-View on Stellar Expert
+**View on Stellar Expert**
 
 🔗 Click here to view the contract on Stellar Expert
 
