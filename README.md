@@ -1,4 +1,4 @@
-WasteCutter - 
+WasteCutter 
 
 Stop bleeding cash on forgotten SaaS subscriptions. Find waste. Cut it. Keep profits.
 
@@ -56,17 +56,18 @@ Deployed Smart Contract
 Contract ID (Testnet)
 text
 
-GA72QG2RJTCB7LWCFZWLZZUCYNAEV2EQIESQUJTS3CWUXCTT6HRNP3AP
+CA54SPYD3W6ACDBGLEERYQQ6TZ2XMLYWQP2GBCIFSPLKH7RGYXQ7D7N2
 
-Replace with actual deployed contract ID after deployment
+Replace with the actual deployed contract ID after deployment
 View on Stellar Expert
 
-🔗 Click here to view contract on Stellar Expert
-https://stellar.expert/explorer/testnet/account/GA72QG2RJTCB7LWCFZWLZZUCYNAEV2EQIESQUJTS3CWUXCTT6HRNP3AP
-<img width="1899" height="940" alt="image" src="https://github.com/user-attachments/assets/00ba582b-2fb1-4fe7-b87b-5dce525f93eb" />
+🔗 Click here to view the contract on Stellar Expert
+[https://stellar.expert/explorer/testnet/account/GA72QG2RJTCB7LWCFZWLZZUCYNAEV2EQIESQUJTS3CWUXCTT6HRNP3AP](https://stellar.expert/explorer/testnet/account/GCSGI4ZRPWFZV3DZMHNRELFJXJ6YELBV3LDADK7AWUHSELBLPAU4UT42)
+<img width="1865" height="925" alt="image" src="https://github.com/user-attachments/assets/bdeedbf4-ae16-4f24-9d7c-ec47e026b0af" />
 View on Stellar Lab
 
 🔗 Interact via Stellar Lab
+https://stellar.expert/explorer/testnet/account/GCSGI4ZRPWFZV3DZMHNRELFJXJ6YELBV3LDADK7AWUHSELBLPAU4UT42
 Deployment Transaction
 text
 
